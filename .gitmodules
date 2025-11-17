@@ -1,0 +1,21 @@
+[submodule "sas_robot_driver"]
+	path = sas_robot_driver
+	url = https://github.com/juanjqo/sas_robot_driver.git
+[submodule "sas_core"]
+	path = sas_core
+	url = https://github.com/juanjqo/sas_core.git
+[submodule "sas_common"]
+	path = sas_common
+	url = https://github.com/juanjqo/sas_common.git
+[submodule "sas_msgs"]
+	path = sas_msgs
+	url = https://github.com/juanjqo/sas_msgs.git
+[submodule "sas_datalogger"]
+	path = sas_datalogger
+	url = https://github.com/juanjqo/sas_datalogger.git
+[submodule "sas_conversions"]
+	path = sas_conversions
+	url = https://github.com/juanjqo/sas_conversions.git
+[submodule "sas_clock"]
+	path = sas_clock
+	url = https://github.com/juanjqo/sas_clock.git
