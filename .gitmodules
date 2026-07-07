@@ -16,6 +16,3 @@
 [submodule "sas_conversions"]
 	path = sas_conversions
 	url = https://github.com/juanjqo/sas_conversions.git
-[submodule "sas_clock"]
-	path = sas_clock
-	url = https://github.com/juanjqo/sas_clock.git
